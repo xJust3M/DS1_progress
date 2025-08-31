@@ -1,6 +1,6 @@
 # 🗡️ Základní hra<br>
-Asylum Demon<br>
-Taurus Demon<br>
+✅ Asylum Demon<br>
+✅ Taurus Demon<br>
 Bell Gargoyles<br>
 Moonlight Butterfly<br>
 Capra Demon<br>
