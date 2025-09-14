@@ -3,8 +3,8 @@
 ✅ Taurus Demon<br>
 ✅ Bell Gargoyles<br>
 Moonlight Butterfly<br>
-Capra Demon<br>
-Gaping Dragon<br>
+✅ Capra Demon<br>
+✅ Gaping Dragon<br>
 Chaos Witch Quelaag<br>
 Stray Demon<br>
 Great Grey Wolf Sif<br>
